@@ -1,0 +1,15 @@
+.color-blue-background {
+  background-color: #002E5C;
+}
+.color-gray-background{
+  background-color: #E3E4DA;
+}
+.color-blue{
+  color: #002E5C;
+}
+.size-card{
+  width: 12rem;
+}
+.change-color-letter:hover{
+  color: #FC4C02;
+}
